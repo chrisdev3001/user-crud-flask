@@ -21,4 +21,4 @@ toml==0.10.0
 virtualenv==16.6.0
 virtualenv-clone==0.5.3
 virtualenvwrapper==4.8.4
-Werkzeug==0.15.2
+Werkzeug==0.15.3
